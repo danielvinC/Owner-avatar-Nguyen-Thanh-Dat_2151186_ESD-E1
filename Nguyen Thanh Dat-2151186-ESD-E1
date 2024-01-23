@@ -1,0 +1,24 @@
+*
+
+.subckt Do_Truong_Giang-2151191-ESD-E1
+
+
+D1 __D1
+D5 __D5
+D3 __D3
+D4 __D4
+D2 __D2
+A1 __A1
+D6 __D6
+D7 __D7
+D8 __D8
+R1 Net-_A1-+5V_ Net-_D1-A_ 247
+R2 Net-_A1-+5V_ Net-_D2-A_ 247
+R3 Net-_A1-+5V_ Net-_D3-A_ 247
+R4 Net-_A1-+5V_ Net-_D4-A_ 247
+R5 Net-_A1-+5V_ Net-_D5-A_ 247
+R8 Net-_A1-+5V_ Net-_D8-A_ 247
+R6 Net-_A1-+5V_ Net-_D6-A_ 247
+R7 Net-_A1-+5V_ Net-_D7-A_ 247
+
+.ends
